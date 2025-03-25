@@ -1,12 +1,15 @@
 # SLiM Community Discussions
 
-This repository houses the GitHub Discussions feature for the [slim-community](https://github.com/slim-community) organization. It serves as a hub for community discussions about SLiM (Selection on Linked Mutations), a forward-time population genetic simulation framework.
+This repository houses the GitHub Discussions feature for the [slim-community](https://github.com/slim-community) organization. It serves as a hub for community discussions about SLiM (Selection on Linked Mutations), a forward-time population genetic simulation framework. We welcome members from the SLiM community who want to get involved, contribute a project, or just feel like chatting.
+
+
 
 ## About SLiM Community
 
 The SLiM Community is a collaborative space for users of SLiM to:
 - Propose new tools and extensions of SLiM
 - Ask questions and get help with materials hosted by the community
+- Chat about SLiM
 - Discuss best practices
 - Connect with other SLiM extension developers
 
